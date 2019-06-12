@@ -1,7 +1,7 @@
 # TeleJenkins [![Build Status](https://ci.jenkins.io/job/Plugins/job/telegram-notifications-plugin/job/master/badge/icon)](https://ci.jenkins.io/job/Plugins/job/telegram-notifications-plugin/job/master/)
 
 ![TeleJenkins Logo](https://pp.vk.me/c636926/v636926471/193d1/fARBefBcfzs.jpg)
-## branchBuilder
+## jobBuilder
 This used to build **jenkins job**  triger by command from **Telegram**.
 
 ---
